@@ -1,0 +1,7 @@
+{
+  "api_key": "your_google_news_api_key",
+  "keywords": "bitcoin, cryptocurrency",
+  "region_language": "US:en",
+  "timeframe": "1d",
+  "output_file": "output.json"
+}
